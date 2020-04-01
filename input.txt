@@ -1,0 +1,5 @@
+% Query random variables
+K
+% Evidence vector
+S=T
+% End of Input
